@@ -1,3 +1,4 @@
-newFile
-changing
-哈哈哈哈哈
+add、commit和push的区别
+1、add 将文件从工作区添加到暂存区中
+2、commit 将暂存区的所有文件提交到本地的git仓库
+3、push 将本地git仓库的分支内容推送到github的远程仓库对应的分支上
