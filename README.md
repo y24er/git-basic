@@ -1,6 +1,6 @@
-# Git Basics
+i# Git Basics
 
-This practice will help you get comfortable with basic git operations: making changes and publishing them.
+Tihis practice will help you get comfortable with basic git operations: making changes and publishing them.
 
 We will learn the following git operations:
 
@@ -29,3 +29,6 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+3. add
+4. commit
+5. push
